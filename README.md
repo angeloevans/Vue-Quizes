@@ -1,6 +1,6 @@
 # quiz
 
-A Quiz App
+A Vue Quiz App
 -using categories
 -using routes
 
