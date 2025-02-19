@@ -1,8 +1,8 @@
 # quiz
 
 A Vue Quiz App
--categories
--routes
+With categories
+& routes
 
 ## Recommended IDE Setup
 
